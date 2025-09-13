@@ -9,4 +9,4 @@
 - Layout adaptável para desktop e mobile
 
 ## Visualização
-Link do site: [inserir aqui o link de hospedagem]
+Link do site: https://jairsisconeto.github.io/cpet-ferramentas-desenvolvimento-web-I/
